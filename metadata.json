@@ -1,0 +1,6 @@
+{
+  "name": "ACCA FR Study & Practice Hub",
+  "description": "Master ACCA Financial Reporting (FR) with daily study targets, custom chapter management, and multi-resource progress tracking across books and platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
